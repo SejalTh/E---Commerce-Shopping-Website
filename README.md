@@ -1,4 +1,4 @@
-# E---Commerce-Shopping-Website
+# E-Commerce-Shopping-Website
 
 "Welcome to our immersive online shopping experience! Step into the world of convenience and variety with our state-of-the-art e-commerce website, meticulously crafted using HTML, CSS, and JavaScript. Whether you're in search of the latest fashion trends, cutting-edge gadgets, or everyday essentials, our platform offers a seamless shopping journey tailored to your needs.
 
